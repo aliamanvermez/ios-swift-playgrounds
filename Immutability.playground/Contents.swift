@@ -38,5 +38,5 @@ print(myMember.teamMembers)
 //
 //
 //
-//print(myMember.memberNumber)
+print(myMember.memberNumber)
 
